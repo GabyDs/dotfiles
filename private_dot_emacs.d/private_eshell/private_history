@@ -1,1 +1,54 @@
 ls
+ls
+cd ..
+cd e-commerce-back/
+clear
+ls
+ls
+ls
+compose.ymlls
+ls
+compose.ymlls
+clear
+exit
+exit
+ls
+ls -a
+source .venv/bin/activate 
+ls
+clear
+source .venv/bin/activate 
+exit
+sudo apt install pylsp
+sudo apt install python-lsp-server
+pip install python-lsp-server
+exit
+ls
+clear
+git status
+main.pygit add .
+main.pygit add .clear
+clear
+git add .
+git status
+git commit -m "handle multiple coros"
+exit
+ls
+git status
+git add .
+git commit -m "handle multiples coros"
+clear
+docker compose up -d
+docker log
+docker container ps
+docker container logs clientemqtt
+docker container log clientemqtt
+clear
+docker compose stop
+clear
+ls
+source .venv/bin/activate 
+source .venv/bin/activate 
+ls
+Wrong type argument: listp, "["exit
+exit
