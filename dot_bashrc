@@ -9,6 +9,6 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
-alias gt='git status'
-
 . "$HOME/.local/bin/env"
+
+export EDITOR=nvim
