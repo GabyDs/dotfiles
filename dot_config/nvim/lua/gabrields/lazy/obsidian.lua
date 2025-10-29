@@ -14,6 +14,17 @@ return {
   -- @module 'obsidian'
   -- @type obsidian.config
   opts = {
+    legacy_commands = false,
+    
+    notes_subdir = "/inbox",
+    new_notes_location = "/inbox/",
+
+    daily_notes = {
+      date_format = "%d-%m-%Y",
+      folder = "/dailes",
+      workdays_only = false,
+    },
+
     workspaces = {
       {
         name = "personal",

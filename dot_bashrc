@@ -12,3 +12,4 @@ PS1='[\u@\h \W]\$ '
 . "$HOME/.local/bin/env"
 
 export EDITOR=nvim
+alias chezapp='chezmoi apply'
